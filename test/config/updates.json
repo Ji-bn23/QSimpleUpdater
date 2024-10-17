@@ -2,7 +2,7 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "1.0",
+      "latest-version": "1.2",
       "download-url": "https://github.com/Ji-bn23/QSimpleUpdater/blob/main/test/download/qsseditor-setup-0.6.1.exe",
       "changelog": "This is an example changelog for Windows. Go on...",
       "mandatory": true
